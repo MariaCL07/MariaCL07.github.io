@@ -87,7 +87,11 @@ p {
     color: wheat;
     text-decoration: none;
     background: olivedrab;
-} 
+}
+
+.btn:hover {
+    background: #1d1c1c;
+}
 
 .btn-home {
     background: none;
